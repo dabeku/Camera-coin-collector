@@ -13,5 +13,5 @@ python3 -m pip install imutils
 ## Start the game
 
 ```
-python3 game.py
+python3 main.py
 ```
